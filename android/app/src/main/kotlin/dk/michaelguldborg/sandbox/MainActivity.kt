@@ -1,4 +1,4 @@
-package dk.michaelguldborg.snacker.snacker
+package dk.michaelguldborg.sandbox
 
 import android.os.Bundle
 

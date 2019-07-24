@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:snacker/components/answer_list.dart';
-import 'package:snacker/components/material_container.dart';
+import 'package:sandbox/components/answer_list.dart';
+import 'package:sandbox/components/material_container.dart';
 
 class QuestionPage extends StatelessWidget {
   final int index;

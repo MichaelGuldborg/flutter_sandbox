@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:snacker/app_colors.dart';
-import 'package:snacker/components/material_container.dart';
+import 'package:sandbox/app_colors.dart';
+import 'package:sandbox/components/material_container.dart';
 
 class AnswerList extends StatelessWidget {
   final List<String> answers;

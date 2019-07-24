@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:snacker/app_colors.dart';
+import 'package:sandbox/app_colors.dart';
 
 class RoundedButton extends StatelessWidget {
   final String text;

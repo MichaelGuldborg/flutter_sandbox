@@ -1,6 +1,6 @@
-# snacker
+# Flutter sandbox
 
-A new Flutter project.
+A sandbox flutter project.
 
 ## Getting Started
 

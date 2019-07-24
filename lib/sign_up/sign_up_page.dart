@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:snacker/app_colors.dart';
-import 'package:snacker/components/progress_bar.dart';
-import 'package:snacker/models/pet.dart';
-import 'package:snacker/sign_up/age_question_page.dart';
-import 'package:snacker/sign_up/sign_up_success.dart';
-import 'package:snacker/sign_up/index_question_page.dart';
-import 'package:snacker/sign_up/json_page.dart';
-import 'package:snacker/sign_up/sign_up_welcome.dart';
+import 'package:sandbox/app_colors.dart';
+import 'package:sandbox/components/progress_bar.dart';
+import 'package:sandbox/models/pet.dart';
+import 'package:sandbox/sign_up/age_question_page.dart';
+import 'package:sandbox/sign_up/sign_up_success.dart';
+import 'package:sandbox/sign_up/index_question_page.dart';
+import 'package:sandbox/sign_up/json_page.dart';
+import 'package:sandbox/sign_up/sign_up_welcome.dart';
 
 class _SignUpPageStateProvider extends InheritedWidget {
   final SignUpPageState state;

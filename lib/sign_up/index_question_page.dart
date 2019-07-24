@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:snacker/components/answer_list.dart';
-import 'package:snacker/sign_up/question_page.dart';
+import 'package:sandbox/components/answer_list.dart';
+import 'package:sandbox/sign_up/question_page.dart';
 
 class IndexQuestionPage extends StatelessWidget {
   final int index;

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:snacker/app_colors.dart';
-import 'package:snacker/components/rounded_button.dart';
-import 'package:snacker/sign_up/sign_up_page.dart';
+import 'package:sandbox/app_colors.dart';
+import 'package:sandbox/components/rounded_button.dart';
+import 'package:sandbox/sign_up/sign_up_page.dart';
 
 class SignUpWelcome extends StatelessWidget {
   @override

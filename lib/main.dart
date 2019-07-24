@@ -1,9 +1,9 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:snacker/camera_page.dart';
-import 'package:snacker/gallery_page.dart';
-import 'package:snacker/sign_up/sign_up_page.dart';
+import 'package:sandbox/camera_page.dart';
+import 'package:sandbox/gallery_page.dart';
+import 'package:sandbox/sign_up/sign_up_page.dart';
 
 void main() => runApp(App());
 
